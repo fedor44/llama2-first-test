@@ -1,0 +1,4 @@
+langchain
+streamlit
+ctransformers
+llama-2-7b-chat.ggmlv3.q4_K_S.bin
